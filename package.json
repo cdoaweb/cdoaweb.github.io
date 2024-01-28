@@ -1,0 +1,12 @@
+{
+  "name": "cdoaweb.github.io",
+  "version": "1.0.0",
+  "description": "Mi sitio web personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Daniel Ondo Angue",
+  "license": "ISC"
+}
